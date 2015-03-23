@@ -1,5 +1,10 @@
 多谢依云的awesome配置https://github.com/lilydjwg/myawesomerc
 
+菜单生成软件
+sudo pacman -S archlinux-xdg-menu
+生成菜单
+xdg_menu --format awesome > ~/.config/awesome/menu.lua
+
 My Awesome configuration.
 
 Links:

@@ -1,3 +1,0 @@
-sudo pacman -S archlinux-xdg-menu
-生成菜单
-xdg_menu --format awesome > ~/.config/awesome/menu.lua
